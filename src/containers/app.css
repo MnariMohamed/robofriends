@@ -1,0 +1,14 @@
+@font-face {
+font-family: 'Robot World Italic';
+font-style: normal;
+font-weight: normal;
+src: local('./fonts/Robot World Italic'), url('./fonts/Robot World Italic.woff') format('woff');
+}
+
+hr{
+  border-color: black;
+}
+h1{
+  color:lightGreen;
+  font-family: "Robot World Italic";
+}
